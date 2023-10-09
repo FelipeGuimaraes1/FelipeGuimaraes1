@@ -15,7 +15,7 @@ Apaixonado por tecnologia, e buscando evoluir a cada dia mais!
 How to reach me:
 <br/>
 <br/>
-<a href=https://www.instagram.com.br/felipe_guimaraes1985//><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+<a href=https://www.instagram.com.br/felipe_guimaraes1985/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 <br/>
 <br/>
 
